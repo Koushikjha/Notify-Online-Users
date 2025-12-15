@@ -1,2 +1,2 @@
 # Notify-Online-Users
-Fetch all the online users in real time
+Track and fetch online users in real time using Spring Boot and WebSocket, enabling dynamic, interactive client experiences.
